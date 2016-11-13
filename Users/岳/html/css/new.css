@@ -1,0 +1,9 @@
+/*@charset "utf-8";
+p,h3{color: red}
+h3{color: blue}
+div{background: red;color: green}
+#div1{padding: 15px;background: green}
+.class1{color:red}*/
+h3[class="class2"]{background: blue}
+div:first-letter{color: green;font-size: 1000px}
+p::selection{color: red}
